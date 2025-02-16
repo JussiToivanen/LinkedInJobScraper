@@ -34,7 +34,7 @@ A Python-based job scraper that collects job listings from LinkedIn using **Sele
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/YourUsername/LinkedInJobScraper.git
+   git clone https://github.com/JussiToivanen/LinkedInJobScraper.git
    cd LinkedInJobScraper
    
 2. **Create and activate a virtual environment (recommended)**:
